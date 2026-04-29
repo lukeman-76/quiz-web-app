@@ -280,7 +280,7 @@ function showHomeScreen() {
   user = "";
 
   document.getElementById("app").innerHTML = `
-    <h2> Quiz Master Pro</h2>
+    <h2> Quiz Web App</h2>
     <p style="color:var(--text-light); margin: 10px 0;">Test your knowledge!</p>
     <input id="name" placeholder="Enter your name" autocomplete="off">
     <select id="category">
